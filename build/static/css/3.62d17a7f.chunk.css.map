@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/ui-component/dialog/EditVariableDialog.css"],"names":[],"mappings":"AAAA,kBACI,SACJ,CACA,6CACI,yBACJ,CAFA,wCACI,yBACJ,CAFA,+BACI,yBACJ","file":"3.62d17a7f.chunk.css","sourcesContent":[".editor__textarea {\r\n    outline: 0;\r\n}\r\n.editor__textarea::placeholder {\r\n    color: rgba(120, 120, 120, 0.5);\r\n}"]}
