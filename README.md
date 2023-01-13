@@ -1,4 +1,4 @@
-# Outerbridge UI Build
+# simplifi UI
 
 ![Outerbridge](./assets/outerbridge_brand.png)
 
