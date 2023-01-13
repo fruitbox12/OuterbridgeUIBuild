@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # simplifi UI
+=======
+# simplifi ui
+>>>>>>> ab4fda44ea77e42c5649f07df84a15593e6694e1
 
 ![Outerbridge](./assets/outerbridge_brand.png)
 
